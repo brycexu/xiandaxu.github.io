@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37406743-b348-42b6-8ac1-b259d1e3f1ed" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Materials/TOEFL.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Materials/UESTC Transcript.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Materials/UESTC Transcript.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/Visiting International Student Academic Excellence Award.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index_chinese.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_chinese.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xiandaxu.github.io.iws" beforeDir="false" afterPath="$PROJECT_DIR$/xiandaxu.github.io.iws" afterDir="false" />
@@ -18,20 +17,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="215" column="54" lean-forward="true" selection-start-line="215" selection-start-column="54" selection-end-line="215" selection-end-column="54" />
+            <state relative-caret-position="379">
+              <caret line="73" selection-start-line="72" selection-end-line="73" />
+              <folding>
+                <element signature="e#811#834#0" expanded="true" />
+                <element signature="e#880#905#0" expanded="true" />
+                <element signature="e#11184#11210#0" expanded="true" />
+                <element signature="e#12638#12660#0" expanded="true" />
+                <element signature="e#12987#13009#0" expanded="true" />
+                <element signature="e#14646#14668#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index_chinese.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index_chinese.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index_chinese.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="212" column="34" lean-forward="true" selection-start-line="212" selection-start-column="34" selection-end-line="212" selection-end-column="34" />
+            <state relative-caret-position="288">
+              <caret line="74" column="53" lean-forward="true" selection-start-line="74" selection-start-column="53" selection-end-line="74" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -125,8 +132,8 @@
         <option value="$PROJECT_DIR$/piano.html" />
         <option value="$PROJECT_DIR$/piano_chinese.html" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/index_chinese.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index_chinese.html" />
       </list>
     </option>
   </component>
@@ -140,7 +147,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="271" />
+    <option name="x" value="11" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
@@ -151,7 +158,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,6 +175,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,15 +277,16 @@
       <workItem from="1550128259158" duration="9000" />
       <workItem from="1550211226614" duration="262000" />
       <workItem from="1551262202679" duration="127000" />
-      <workItem from="1551669345850" duration="253000" />
+      <workItem from="1551669345850" duration="305000" />
+      <workItem from="1552620048995" duration="408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41186000" />
+    <option name="totallyTimeSpent" value="41646000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <frame x="11" y="23" width="1440" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -294,7 +302,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22031474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22317597" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -959,17 +967,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index_chinese.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="212" column="34" lean-forward="true" selection-start-line="212" selection-start-column="34" selection-end-line="212" selection-end-column="34" />
+        <state relative-caret-position="379">
+          <caret line="73" selection-start-line="72" selection-end-line="73" />
+          <folding>
+            <element signature="e#811#834#0" expanded="true" />
+            <element signature="e#880#905#0" expanded="true" />
+            <element signature="e#11184#11210#0" expanded="true" />
+            <element signature="e#12638#12660#0" expanded="true" />
+            <element signature="e#12987#13009#0" expanded="true" />
+            <element signature="e#14646#14668#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index_chinese.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="215" column="54" lean-forward="true" selection-start-line="215" selection-start-column="54" selection-end-line="215" selection-end-column="54" />
+        <state relative-caret-position="288">
+          <caret line="74" column="53" lean-forward="true" selection-start-line="74" selection-start-column="53" selection-end-line="74" selection-end-column="53" />
         </state>
       </provider>
     </entry>
