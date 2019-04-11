@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37406743-b348-42b6-8ac1-b259d1e3f1ed" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xiandaxu.github.io.iws" beforeDir="false" afterPath="$PROJECT_DIR$/xiandaxu.github.io.iws" afterDir="false" />
-    </list>
+    <list default="true" id="37406743-b348-42b6-8ac1-b259d1e3f1ed" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +15,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+            <state relative-caret-position="462">
+              <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
               <folding>
                 <element signature="e#811#834#0" expanded="true" />
                 <element signature="e#880#905#0" expanded="true" />
@@ -31,7 +28,7 @@
       <file leaf-file-name="index_chinese.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index_chinese.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="1005">
               <caret line="67" column="26" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
             </state>
           </provider>
@@ -143,7 +140,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="829" />
+    <option name="height" value="828" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -151,14 +148,19 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="xiandaxu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiandaxu.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiandaxu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiandaxu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Materials" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,15 +269,16 @@
       <workItem from="1551262202679" duration="127000" />
       <workItem from="1551669345850" duration="305000" />
       <workItem from="1552620048995" duration="481000" />
-      <workItem from="1554092114761" duration="41000" />
+      <workItem from="1554092114761" duration="128000" />
+      <workItem from="1554989327377" duration="602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41760000" />
+    <option name="totallyTimeSpent" value="42449000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="829" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -291,7 +294,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22603719" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22889842" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -958,15 +961,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index_chinese.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="1005">
           <caret line="67" column="26" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+        <state relative-caret-position="462">
+          <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
           <folding>
             <element signature="e#811#834#0" expanded="true" />
             <element signature="e#880#905#0" expanded="true" />
