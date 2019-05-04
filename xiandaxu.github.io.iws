@@ -15,15 +15,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="198" column="55" lean-forward="true" selection-start-line="198" selection-start-column="55" selection-end-line="198" selection-end-column="55" />
+            <state relative-caret-position="256">
+              <caret line="178" column="44" selection-start-line="178" selection-start-column="44" selection-end-line="178" selection-end-column="44" />
               <folding>
                 <element signature="e#811#834#0" expanded="true" />
                 <element signature="e#880#905#0" expanded="true" />
-                <element signature="e#11312#11338#0" expanded="true" />
-                <element signature="e#12871#12893#0" expanded="true" />
-                <element signature="e#13220#13242#0" expanded="true" />
-                <element signature="e#14879#14901#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -32,12 +28,10 @@
       <file leaf-file-name="index_chinese.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index_chinese.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1713">
-              <caret line="220" column="44" lean-forward="true" selection-start-line="220" selection-start-column="44" selection-end-line="220" selection-end-column="44" />
+            <state relative-caret-position="-23">
+              <caret line="172" column="63" lean-forward="true" selection-start-line="172" selection-start-column="63" selection-end-line="172" selection-end-column="63" />
               <folding>
                 <element signature="e#4054#4077#0" expanded="true" />
-                <element signature="e#4054#4077#0" expanded="true" />
-                <element signature="e#4391#4414#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,7 +141,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-128" />
+    <option name="x" value="292" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
@@ -157,8 +151,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -176,6 +168,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,10 +182,10 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Materials" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Materials" />
     </key>
   </component>
@@ -284,11 +278,12 @@
       <workItem from="1555743227695" duration="7000" />
       <workItem from="1556246029472" duration="606000" />
       <workItem from="1556514408764" duration="1129000" />
+      <workItem from="1556953348543" duration="192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44473000" />
+    <option name="totallyTimeSpent" value="44665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
@@ -307,7 +302,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23748212" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -974,27 +969,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="198" column="55" lean-forward="true" selection-start-line="198" selection-start-column="55" selection-end-line="198" selection-end-column="55" />
+        <state relative-caret-position="256">
+          <caret line="178" column="44" selection-start-line="178" selection-start-column="44" selection-end-line="178" selection-end-column="44" />
           <folding>
             <element signature="e#811#834#0" expanded="true" />
             <element signature="e#880#905#0" expanded="true" />
-            <element signature="e#11312#11338#0" expanded="true" />
-            <element signature="e#12871#12893#0" expanded="true" />
-            <element signature="e#13220#13242#0" expanded="true" />
-            <element signature="e#14879#14901#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index_chinese.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1713">
-          <caret line="220" column="44" lean-forward="true" selection-start-line="220" selection-start-column="44" selection-end-line="220" selection-end-column="44" />
+        <state relative-caret-position="-23">
+          <caret line="172" column="63" lean-forward="true" selection-start-line="172" selection-start-column="63" selection-end-line="172" selection-end-column="63" />
           <folding>
             <element signature="e#4054#4077#0" expanded="true" />
-            <element signature="e#4054#4077#0" expanded="true" />
-            <element signature="e#4391#4414#0" expanded="true" />
           </folding>
         </state>
       </provider>
