@@ -1,4 +1,4 @@
-This is the CV of Xianda (Bryce) Xu
+This is the old CV of Xianda (Bryce) Xu
 
 www.xiandaxu.info 
 
